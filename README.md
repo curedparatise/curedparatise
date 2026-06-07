@@ -3,7 +3,7 @@
   ![](https://i.pinimg.com/736x/73/a6/62/73a6622872a4465d12947776ab231d5f.jpg)
 </p>
 
-hi i love my boyfriend ok bye 
+$${\color{#ee0989}hi \space \color{#ee0989}i \space \color{#ee0989}love \space \color{#ee0989}my \space \color{#ee0989}boyfriend \space \color{#ee0989}ok \space \color{#ee0989}bye}$$   
 
 
 <!--
