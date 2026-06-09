@@ -1,9 +1,11 @@
+
 <p align="center">
-  
-  ![](https://i.pinimg.com/736x/73/a6/62/73a6622872a4465d12947776ab231d5f.jpg)
+  <img src="https://files.catbox.moe/fimxuo.png" />
 </p>
 
-$${\color{#ee0989}hi \space \color{#ee0989}i \space \color{#ee0989}love \space \color{#ee0989}my \space \color{#ee0989}boyfriend \space \color{#ee0989}ok \space \color{#ee0989}bye}$$   
+
+
+$${\color{#153032}hi \space \color{#1e2a5a}i \space \color{#106699}love \space \color{#a8dad8}my \space \color{#106699}boyfriend \space \color{#1e2a5a}ok \space \color{#153032}bye}$$   
 
 
 <!--
